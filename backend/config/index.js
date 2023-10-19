@@ -1,13 +1,7 @@
-import dotenv from "dotenv";
 
-const environment = dotenv.config();
 
-if (environment.error) {
-  throw new Error("no environment file found");
-}
 
 export default {
-  port: process.env.PORT,
+  port: 3002
 
-  target_url: process.env.TARGET_URL,
 };
