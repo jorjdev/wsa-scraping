@@ -33,9 +33,6 @@ includesWordsCounter: Count the number of words in each blog post's content.
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
   <ol>
     <li>
       Getting Started
@@ -43,8 +40,9 @@ includesWordsCounter: Count the number of words in each blog post's content.
         <li>Prerequisites</li>
         Make sure you have Node.js and npm installed before setting up and running this project.
         Ensure that ports 3002 and 5173 are available and not in use by other applications.
-        <li><a href="#installation">Installation</a></li>
+        <li>Installation</li>
         Step 1: Clone the Repository
+
         
 Open your terminal and navigate to the directory where you want to clone the project.
 Clone the repository using the following command:
@@ -94,7 +92,6 @@ Backend: http://localhost:3002
 ```
 
   </ol>
-</details>
 
 
 
