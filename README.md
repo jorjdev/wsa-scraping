@@ -54,7 +54,6 @@ Clone the repository using the following command:
  
 Open a terminal and navigate to the "backend" folder within the project directory:
 ```bash
-git clone https://github.com/jorjdev/wsa-scraping-assessment.git
 cd path/to/your/project/backend
 ```
 Install backend dependencies:
