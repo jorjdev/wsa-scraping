@@ -48,13 +48,13 @@ Open your terminal and navigate to the directory where you want to clone the pro
 Clone the repository using the following command:
          
 ```bash
-  git clone https://github.com/your-username/your-repo.git
+  git clone https://github.com/jorjdev/wsa-scraping-assessment.git
 ```
  Step 2: Set Up the Backend
  
 Open a terminal and navigate to the "backend" folder within the project directory:
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/jorjdev/wsa-scraping-assessment.git
 cd path/to/your/project/backend
 ```
 Install backend dependencies:
