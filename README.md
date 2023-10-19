@@ -91,12 +91,19 @@ Backend: http://localhost:3002
 ```
 Possible improvements:
 
+
 Deployment and CI/CD pipeline for ease of development.
+
 A loader component that shows up when data is in process of being fetched/scraped.
+
 Support for more target websites.
+
 Use of proxies to avoid IP blocking or rate limiting on certain websites.
+
 A caching mechanism for static websites(via a database or on disk).
+
 Data export posiblity in different formats(JSON,JPG,CSV).
+
 
 </ol>
 
