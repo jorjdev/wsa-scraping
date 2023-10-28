@@ -49,5 +49,7 @@ export const scrapeTarget = async (req, res) => {
         unhandledException(res);
       }
     }
-  } catch (error) {}
+  } catch (error) {
+    unhandledException(res);
+  }
 };

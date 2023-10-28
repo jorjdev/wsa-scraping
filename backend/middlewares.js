@@ -5,6 +5,7 @@ const {
   queryHasUnsupportCriteriaErrorMessage,
   unsupportedTargetURLErrorMessage,
   navigationErrorErrorMessage,
+  unhandledExceptionErrorMessage
 } = ERROR_MESSAGES;
 
 export function queryCannotBeEmpty(res) {
